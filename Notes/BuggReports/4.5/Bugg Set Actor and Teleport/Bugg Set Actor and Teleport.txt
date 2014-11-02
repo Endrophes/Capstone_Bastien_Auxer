@@ -1,0 +1,6 @@
+Nether Set Actor Location or Teleport moves actor
+
+I am currently working in the release build of 4.5. I have gravity gun like system in 4.2 and have ported the game over to 4.5. As I was testing to see if everything works set actor location seems to false not matter how the rock is set.
+
+
+I have a parent class called pickUpable that handles all the interactions with the gravity gun mode of my weapon. The rock in the Image inherent from that class.
